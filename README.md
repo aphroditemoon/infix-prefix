@@ -17,21 +17,21 @@
 
 ## 📌 Project Overview
 
-This project is a console-based program written in **C** that demonstrates how a **stack data structure** can be used to convert mathematical expressions.
+This project is a console based program written in **C** that demonstrates how a **stack data structure** can be used to convert mathematical expressions.
 
 The program provides a simple menu that allows users to:
 
 - Convert an **infix expression** into another expression format through the program’s conversion logic
 - Convert a **prefix expression** back into infix notation
-- Practice stack operations using a linked-list-based implementation
+- Practice stack operations using a linked list based implementation
 
-It is designed as a beginner-friendly data structure project for understanding how stacks work behind expression parsing and conversion.
+It is designed as a beginner friendly data structure project for understanding how stacks work behind expression parsing and conversion.
 
 ---
 
 ## ✨ Features
 
-- Menu-driven console program
+- Menu driven console program
 - Stack implementation using a linked list
 - Dynamic memory allocation with `malloc()` and `free()`
 - Supports operators such as `+`, `-`, `*`, `/`, and `^`
@@ -163,7 +163,7 @@ For macOS or Linux:
 
 ---
 
-## 📂 Recommended Repository Structure
+## 📂 Repository Structure
 
 ```text
 infix-prefix/
