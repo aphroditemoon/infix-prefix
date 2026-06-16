@@ -2,7 +2,7 @@
 
 # Infix Prefix Expression Converter in C
 
-### A simple, stack-based C program for converting arithmetic expressions between **infix** and **prefix** notation.
+### A simple, stack based C program for converting arithmetic expressions between **infix** and **prefix** notation.
 
 <br>
 
