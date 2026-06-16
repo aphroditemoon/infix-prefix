@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔁 Infix–Prefix Expression Converter in C
+# Infix Prefix Expression Converter in C
 
 ### A simple, stack-based C program for converting arithmetic expressions between **infix** and **prefix** notation.
 
@@ -31,14 +31,14 @@ It is designed as a beginner-friendly data structure project for understanding h
 
 ## ✨ Features
 
-- ✅ Menu-driven console program
-- ✅ Stack implementation using a linked list
-- ✅ Dynamic memory allocation with `malloc()` and `free()`
-- ✅ Supports operators such as `+`, `-`, `*`, `/`, and `^`
-- ✅ Supports parentheses in expressions
-- ✅ Handles alphanumeric operands such as `A`, `B`, `C`, `1`, `2`, and `3`
-- ✅ Includes basic validation for invalid prefix expressions
-- ✅ Clean and easy-to-follow C structure
+- Menu-driven console program
+- Stack implementation using a linked list
+- Dynamic memory allocation with `malloc()` and `free()`
+- Supports operators such as `+`, `-`, `*`, `/`, and `^`
+- Supports parentheses in expressions
+- Handles alphanumeric operands such as `A`, `B`, `C`, `1`, `2`, and `3`
+- Includes basic validation for invalid prefix expressions
+- Clean and easy-to-follow C structure
 
 ---
 
@@ -141,16 +141,10 @@ cd infix-prefix
 
 ### 2. Compile the Program
 
-If your source file is named `File.c`, compile it using:
+Run this by using : 
 
 ```bash
 gcc File.c -o infix_prefix
-```
-
-If you rename it to something cleaner like `infix_prefix.c`, use:
-
-```bash
-gcc infix_prefix.c -o infix_prefix
 ```
 
 ### 3. Run the Program
@@ -177,23 +171,6 @@ infix-prefix/
 ├── File.c
 └── README.md
 ```
-
-For a cleaner repository, you may rename `File.c` to:
-
-```text
-infix_prefix.c
-```
-
-Recommended final structure:
-
-```text
-infix-prefix/
-│
-├── infix_prefix.c
-└── README.md
-```
-
----
 
 ## 📊 How the Stack Works
 
@@ -231,31 +208,17 @@ This project is especially useful for students who are learning data structures 
 
 ---
 
-## 📝 Notes and Possible Improvements
-
-Some possible improvements for future development:
-
-- Add support for multi-character operands such as `var1`, `num2`, or `total`
-- Improve input validation for incomplete expressions
-- Add clearer error messages for invalid infix expressions
-- Add whitespace handling for expressions with spaces
-- Display the conversion process step by step
-- Add automated test cases
-- Review the infix-to-prefix logic if the goal is to strictly match standard prefix notation output
-
----
-
 ## 👨‍💻 Author
 
-**Erlangga Putra Mahardika**  
+**Erlangga Mahardika**  
 Repository: `infix-prefix`
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for checking out this project!
+### ⭐ Thanks for checking out this project! ⭐
 
-If this project helped you understand stacks or expression conversion, consider giving the repository a star.
+If this project helped you, consider giving the repository a star.
 
 </div>
